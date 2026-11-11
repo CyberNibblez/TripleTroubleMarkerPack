@@ -1,0 +1,167 @@
+<OverlayData>
+	<MarkerCategory name="marker" DisplayName="Triple Trouble Markers">
+		<MarkerCategory name="title" DisplayName="By Sofia.8743" IsSeparator="1"/>
+		<MarkerCategory name="gather" DisplayName="Gathering Spot">
+			<MarkerCategory name="chest" DisplayName="Golden Chest" iconFile="Data/marker/chest.png" heightOffset="0" fadeNear="5000" fadeFar="5001" iconSize="1.0" behavior="0"/>
+		</MarkerCategory>
+		<MarkerCategory name="amber" DisplayName="Amber Head">
+			<MarkerCategory name="escort" DisplayName="-- ESCORT --" IsSeparator="1"/>
+			<MarkerCategory name="attractant" DisplayName="Achievement: Wurm Bait" iconFile="Data/marker/attractant.png" heightOffset="0" fadeNear="5000" fadeFar="5001" iconSize="1.0" behavior="0"/>
+			<MarkerCategory name="eggs" DisplayName="Egg Spawns" iconFile="Data/marker/wurm_egg.png" heightOffset="0" fadeNear="5000" fadeFar="5001" iconSize="1.0" behavior="0"/>
+			<MarkerCategory name="husk" DisplayName="Husk Spawn" iconFile="Data/marker/champion_husk.png" heightOffset="0" fadeNear="5000" fadeFar="5001" iconSize="1.0" behavior="0"/>
+			<MarkerCategory name="escortPath" DisplayName="Escort Path"/>
+			<MarkerCategory name="arena" DisplayName="-- ARENA --" IsSeparator="1"/>
+			<MarkerCategory name="wurm" DisplayName="Wurm/Blocking Spot" iconFile="Data/marker/star.png" heightOffset="0" fadeNear="5000" fadeFar="5001" iconSize="1.0" behavior="0"/>
+			<MarkerCategory name="husks" DisplayName="Husk Landing Spots" iconFile="Data/marker/champion_husk.png" heightOffset="0" fadeNear="5000" fadeFar="5001" iconSize="1.0" behavior="0"/>
+			<MarkerCategory name="eatStack" DisplayName="Eat Stack" iconFile="Data/marker/circle.png" heightOffset="0" fadeNear="5000" fadeFar="5001" iconSize="1.0" behavior="0"/>
+			<MarkerCategory name="unfortunateAdventurer" DisplayName="Unfortunate Adventurer" iconFile="Data/marker/heart.png" heightOffset="0" fadeNear="5000" fadeFar="5001" iconSize="1.0" behavior="0"/>
+			<MarkerCategory name="pyloricValve" DisplayName="Pyloric Valve" iconFile="Data/marker/triangle.png" heightOffset="0" fadeNear="5000" fadeFar="5001" iconSize="1.0" behavior="0"/>
+			<MarkerCategory name="harpoonStack" DisplayName="Harpoon Stack" iconFile="Data/marker/arrow.png" heightOffset="0" fadeNear="5000" fadeFar="5001" iconSize="1.0" behavior="0"/>
+			<MarkerCategory name="spitOutLocation" DisplayName="Spit Out Location" iconFile="Data/marker/amber_spit_out.png" heightOffset="0" fadeNear="5000" fadeFar="5001" iconSize="1.0" behavior="0"/>
+			<MarkerCategory name="veteranWurms" DisplayName="Veteran Wurm Spawn" iconFile="Data/marker/veteran_wurm.png" heightOffset="0" fadeNear="5000" fadeFar="5001" iconSize="1.0" behavior="0"/>
+			<MarkerCategory name="rewards" DisplayName="Rewards Portal" iconFile="Data/marker/portal_chest.png" heightOffset="0" fadeNear="5000" fadeFar="5001" iconSize="1.0" behavior="0"/>
+			<MarkerCategory name="abomination" DisplayName="Abomination Path"/>
+			<MarkerCategory name="harpoonFire" DisplayName="Harpoon Firing Line"/>
+		</MarkerCategory>
+		<MarkerCategory name="crimson" DisplayName="Crimson Head">
+			<MarkerCategory name="escort" DisplayName="-- ESCORT --" IsSeparator="1"/>
+			<MarkerCategory name="phytotoxin" DisplayName="Achievement: Phytotoxin Enthusiast" iconFile="Data/marker/red.png" heightOffset="0" fadeNear="5000" fadeFar="5001" iconSize="1.0" behavior="0"/>
+			<MarkerCategory name="eggs" DisplayName="Egg Spawns" iconFile="Data/marker/wurm_egg.png" heightOffset="0" fadeNear="5000" fadeFar="5001" iconSize="1.0" behavior="0"/>
+			<MarkerCategory name="husk" DisplayName="Husk Spawn" iconFile="Data/marker/champion_husk.png" heightOffset="0" fadeNear="5000" fadeFar="5001" iconSize="1.0" behavior="0"/>
+			<MarkerCategory name="escortPath" DisplayName="Escort Path"/>
+			<MarkerCategory name="arena" DisplayName="-- ARENA --" IsSeparator="1"/>
+			<MarkerCategory name="wurm" DisplayName="Wurm/Blocking Spot" iconFile="Data/marker/star.png" heightOffset="0" fadeNear="5000" fadeFar="5001" iconSize="1.0" behavior="0"/>
+			<MarkerCategory name="husks" DisplayName="Husk Landing Spots" iconFile="Data/marker/champion_husk.png" heightOffset="0" fadeNear="5000" fadeFar="5001" iconSize="1.0" behavior="0"/>
+			<MarkerCategory name="tripleColor" DisplayName="Triple Color Spot" iconFile="Data/marker/arrow.png" heightOffset="0" fadeNear="5000" fadeFar="5001" iconSize="1.0" behavior="0"/>
+			<MarkerCategory name="extractor" DisplayName="Phytotoxin Extractors">
+				<MarkerCategory name="red" DisplayName="Red" iconFile="Data/marker/red.png" heightOffset="0" fadeNear="5000" fadeFar="5001" iconSize="1.0" behavior="0"/>
+				<MarkerCategory name="yellow" DisplayName="Yellow" iconFile="Data/marker/yellow.png" heightOffset="0" fadeNear="5000" fadeFar="5001" iconSize="1.0" behavior="0"/>
+				<MarkerCategory name="blue" DisplayName="Blue" iconFile="Data/marker/blue.png" heightOffset="0" fadeNear="5000" fadeFar="5001" iconSize="1.0" behavior="0"/>
+			</MarkerCategory>
+			<MarkerCategory name="veteranWurms" DisplayName="Veteran Wurm Spawn" iconFile="Data/marker/veteran_wurm.png" heightOffset="0" fadeNear="5000" fadeFar="5001" iconSize="1.0" behavior="0"/>
+			<MarkerCategory name="rewards" DisplayName="Rewards Portal" iconFile="Data/marker/portal_chest.png" heightOffset="0" fadeNear="5000" fadeFar="5001" iconSize="1.0" behavior="0"/>
+		</MarkerCategory>
+		<MarkerCategory name="cobalt" DisplayName="Cobalt Head">
+			<MarkerCategory name="escort" DisplayName="-- ESCORT --" IsSeparator="1"/>
+			<MarkerCategory name="rum" DisplayName="Achievement: Wurm Kleptomaniac" iconFile="Data/marker/cobalt_rum.png" heightOffset="0" fadeNear="5000" fadeFar="5001" iconSize="1.0" behavior="0"/>
+			<MarkerCategory name="eggs" DisplayName="Egg Spawns" iconFile="Data/marker/wurm_egg.png" heightOffset="0" fadeNear="5000" fadeFar="5001" iconSize="1.0" behavior="0"/>
+			<MarkerCategory name="husk" DisplayName="Husk Spawn" iconFile="Data/marker/champion_husk.png" heightOffset="0" fadeNear="5000" fadeFar="5001" iconSize="1.0" behavior="0"/>
+			<MarkerCategory name="escortPath" DisplayName="Escort Path"/>
+			<MarkerCategory name="arena" DisplayName="-- ARENA --" IsSeparator="1"/>
+			<MarkerCategory name="wurm" DisplayName="Wurm/Blocking Spot" iconFile="Data/marker/star.png" heightOffset="0" fadeNear="5000" fadeFar="5001" iconSize="1.0" behavior="0"/>
+			<MarkerCategory name="husks" DisplayName="Husk Landing Spots" iconFile="Data/marker/champion_husk.png" heightOffset="0" fadeNear="5000" fadeFar="5001" iconSize="1.0" behavior="0"/>
+			<MarkerCategory name="kegSpot" DisplayName="Place Keg Spot" iconFile="Data/marker/spiral.png" heightOffset="0" fadeNear="5000" fadeFar="5001" iconSize="1.0" behavior="0"/>
+			<MarkerCategory name="kegSpawn" DisplayName="Keg Spawns">
+				<MarkerCategory name="beach" DisplayName="Easy / Beach" iconFile="Data/marker/arrow.png" heightOffset="0" fadeNear="5000" fadeFar="5001" iconSize="1.0" behavior="0"/>
+				<MarkerCategory name="plank" DisplayName="Plank / Mast / Pole" iconFile="Data/marker/heart.png" heightOffset="0" fadeNear="5000" fadeFar="5001" iconSize="1.0" behavior="0"/>
+				<MarkerCategory name="jp" DisplayName="Hard /  JP" iconFile="Data/marker/circle.png" heightOffset="0" fadeNear="5000" fadeFar="5001" iconSize="1.0" behavior="0"/>
+			</MarkerCategory>
+			<MarkerCategory name="veteranWurms" DisplayName="Veteran Wurm Spawn" iconFile="Data/marker/veteran_wurm.png" heightOffset="0" fadeNear="5000" fadeFar="5001" iconSize="1.0" behavior="0"/>
+			<MarkerCategory name="rewards" DisplayName="Rewards Portal" iconFile="Data/marker/portal_chest.png" heightOffset="0" fadeNear="5000" fadeFar="5001" iconSize="1.0" behavior="0"/>
+		</MarkerCategory>
+	</MarkerCategory>
+	<POIs>
+		<!-- Gathering Spot -->
+		<POI MapID="73" xpos="192.036" ypos="8.12346" zpos="-69.0764" GUID="OmUarJDtW0uVCOe6l6uyKg==" type="marker.gather.chest"/> <!-- Golden Chest at Firthside Vigil -->
+		<!-- End Gathering Spot Markers -->
+		
+		<!-- Amber Markers -->
+		<!-- Escort -->
+		<POI MapID="73" xpos="568.379" ypos="23.8361" zpos="-366.156" GUID="DupuE931y0m8hhRev/TCsQ==" type="marker.amber.attractant"/> <!-- Amber Wurm Bait Achievement -->
+		<POI MapID="73" xpos="367.989" ypos="2.63406" zpos="-93.7248" GUID="5gjfdjh9tUW3fYcTeQtQkw==" type="marker.amber.eggs"/> <!-- Amber Escort Eggs 1 -->
+		<POI MapID="73" xpos="455.895" ypos="14.6091" zpos="-104.604" GUID="6eXN+xR3sUGZ5Z1TbhKKrA==" type="marker.amber.eggs"/> <!-- Amber Escort Eggs 2 -->
+		<POI MapID="73" xpos="517.293" ypos="29.2924" zpos="-155.471" GUID="kDMTFnWZjE20G2gSXSc9UQ==" type="marker.amber.eggs"/> <!-- Amber Escort Eggs 3 -->
+		<POI MapID="73" xpos="601.143" ypos="17.018" zpos="-388.411" GUID="gKlrPIKjvUSVo7jC6h8+sQ==" type="marker.amber.eggs"/> <!-- Amber Escort Eggs 4 -->
+		<POI MapID="73" xpos="538.096" ypos="33.4341" zpos="-174.677" GUID="SchVc1u32kWHYq69WjB6Iw==" type="marker.amber.husk"/> <!-- Amber Escort Husk -->
+		
+		<!-- Arena -->
+		<POI MapID="73" xpos="670.51" ypos="-0.278302" zpos="-606.356" GUID="yPMHLBgBPUy7wIxR9l8CIA==" type="marker.amber.wurm"/><!-- Amber Wurm/Blocking Spot -->
+		<POI MapID="73" xpos="633.182" ypos="1.97183" zpos="-572.163" GUID="QZdUUELXd0WwQftVAMtAnA==" type="marker.amber.husks"/> <!-- Amber Husk Landing Spot -->
+		<POI MapID="73" xpos="620.551" ypos="1.72581" zpos="-609.861" GUID="o9A4lwr/z02y5CG4mkEswQ==" type="marker.amber.husks"/> <!-- Amber Husk Landing Spot -->
+		<POI MapID="73" xpos="639.114" ypos="-0.33563" zpos="-635.904" GUID="uQsYIhF2PEqvp2WeGbOqUw==" type="marker.amber.husks"/> <!-- Amber Husk Landing Spot -->
+		<POI MapID="73" xpos="656.089" ypos="0.402859" zpos="-597.901" GUID="EtOXrTohxkKjGajBYRxsjw==" type="marker.amber.eatStack"/> <!-- Amber Eat Stack -->
+		<POI MapID="73" xpos="735.246" ypos="0.684211" zpos="-605.1" GUID="XCvhHC/PJEmgxhn14HNuaQ==" type="marker.amber.unfortunateAdventurer"/> <!-- Amber Harpoon - Unfortuante Adventurer -->
+		<POI MapID="73" xpos="741.684" ypos="1.62778" zpos="-617.013" GUID="0K2PK4bhnkugpjC4KfDSFQ==" type="marker.amber.pyloricValve"/> <!-- Amber Pyloric Valve -->
+		<POI MapID="73" xpos="673.529" ypos="1.55139" zpos="-632.768" GUID="da8a2QA25kqHBJaZj3PemA==" type="marker.amber.harpoonStack"/> <!-- Amber Harpoon Stack -->
+		
+		<POI MapID="73" xpos="625.012" ypos="1.30077" zpos="-617.383" GUID="vHLv52l9bUWS0uxCNkVB6g==" type="marker.amber.spitOutLocation"/> <!-- Amber Spit Out Location -->
+		
+		<POI MapID="73" xpos="624.812" ypos="0.983717" zpos="-636.986" GUID="kSqWh6NmvkGrCPMDPas3ZQ==" type="marker.amber.veteranWurms"/> <!-- Amber Veteran Wurm Spawn Location -->
+		<POI MapID="73" xpos="666.155" ypos="-0.0723724" zpos="-581.273" GUID="aWfxCatgFkK3ib0KS8muPQ==" type="marker.amber.veteranWurms"/> <!-- Amber Veteran Wurm Spawn Location -->
+		<POI MapID="73" xpos="610.675" ypos="6.97948" zpos="-577.772" GUID="adOzovm54kaH5O0fICdsJg==" type="marker.amber.veteranWurms"/> <!-- Amber Veteran Wurm Spawn Location -->
+		<POI MapID="73" xpos="652.086" ypos="-0.139772" zpos="-639.345" GUID="OVvvwvFpE0SU5I07iYwHLw==" type="marker.amber.veteranWurms"/> <!-- Amber Veteran Wurm Spawn Location -->
+		<POI MapID="73" xpos="659.887" ypos="0.506109" zpos="-597.761" GUID="zYVENE1H7kCSeIuCaQ8wTg==" type="marker.amber.veteranWurms"/> <!-- Amber Veteran Wurm Spawn Location -->
+		<POI MapID="73" xpos="644.706" ypos="0.353942" zpos="-572.5" GUID="4Gr0onQyhEuIJx1O/x9zYQ==" type="marker.amber.veteranWurms"/> <!-- Amber Veteran Wurm Spawn Location -->
+		
+		<POI MapID="73" xpos="664.615" ypos="-0.120855" zpos="-603.802" GUID="SwiPKsAh60Sf2GAbtxtP6g==" type="marker.amber.rewards"/> <!-- Rewards Portal -->
+		<!-- End Amber Markers -->
+		
+		<!-- Crimson Markers -->
+		<!-- Escort -->
+		<POI MapID="73" xpos="287.049" ypos="47.0973" zpos="-307.394" GUID="nKU+bQ+s9U+sBPngAo1gtA==" type="marker.crimson.phytotoxin"/> <!-- Crimson Phytotoxin Enthusiast Achievement -->
+		<POI MapID="73" xpos="304.457" ypos="24.0879" zpos="-159.479" GUID="QMm+o3ONDka2WscXiFT4Bw==" type="marker.crimson.eggs"/> <!-- Crimson Escort Eggs 1 -->
+		<POI MapID="73" xpos="280.403" ypos="42.2997" zpos="-245.291" GUID="KGojgJOUhEuzeV8F3pUzRw==" type="marker.crimson.eggs"/> <!-- Crimson Escort Eggs 2 -->
+		<POI MapID="73" xpos="234.267" ypos="58.7975" zpos="-318.693" GUID="GaPU3lIcPEytbvB924RjNw==" type="marker.crimson.eggs"/> <!-- Crimson Escort Eggs 3 -->
+		<POI MapID="73" xpos="234.84" ypos="60.0034" zpos="-308.349" GUID="KA+d5Rs6wEOLTlfmnaxERg==" type="marker.crimson.husk"/> <!-- Crimson Escort Husk -->
+		
+		<!-- Arena -->
+		<POI MapID="73" xpos="198.495" ypos="16.0579" zpos="-438.088" GUID="jiKExAf/YkWcVVlPWN/vJg==" type="marker.crimson.wurm"/> <!-- Crimson Wurm/Blocking Spot -->
+		<POI MapID="73" xpos="238.865" ypos="25.059" zpos="-462.737" GUID="oNlccKBnY0GW1QE8GLGI9w==" type="marker.crimson.husks"/> <!-- Crimson Husk Landing Spot -->
+		<POI MapID="73" xpos="259.52" ypos="17.8387" zpos="-428.592" GUID="ur1V+eYPTU+4RcNDxbmc5w==" type="marker.crimson.husks"/> <!-- Crimson Husk Landing Spot -->
+		<POI MapID="73" xpos="230.003" ypos="33.3272" zpos="-391.053" GUID="D7ZguN6F2UCMbopJhf1x+Q==" type="marker.crimson.husks"/> <!-- Crimson Husk Landing Spot -->
+		<POI MapID="73" xpos="229.828" ypos="48.5676" zpos="-369.052" GUID="bYUpGiNIakmj5YuGFl/fGg==" type="marker.crimson.extractor.red"/> <!-- Crimson Red Collector -->
+		<POI MapID="73" xpos="154.695" ypos="51.7927" zpos="-433.716" GUID="OLOH56umXEy3tzr8fCC0dA==" type="marker.crimson.extractor.yellow"/> <!-- Crimson Yellow Collector -->
+		<POI MapID="73" xpos="262.329" ypos="36.8178" zpos="-473.986" GUID="7YQemyCmo0aeBrCFAcuAZQ==" type="marker.crimson.extractor.blue"/> <!-- Crimson Blue Collector -->
+		<POI MapID="73" xpos="233.225" ypos="16.3216" zpos="-427.026" GUID="poIwir+EbUWDqeXfpofQIg==" type="marker.crimson.tripleColor"/> <!-- Triple Color Spot -->
+		
+		<POI MapID="73" xpos="160.591" ypos="34.826" zpos="-409.204" GUID="d40W9rawwUe5/6cWlHRK/A==" type="marker.crimson.veteranWurms"/> <!-- Crimson Veteran Wurm Spawn Location -->
+		<POI MapID="73" xpos="270.371" ypos="23.6644" zpos="-409.741" GUID="7DsDRFPpHkSs4WU0vQCYOQ==" type="marker.crimson.veteranWurms"/> <!-- Crimson Veteran Wurm Spawn Location -->
+		<POI MapID="73" xpos="240.666" ypos="16.5271" zpos="-435.942" GUID="GIJSktKt5U2KA/an4rv2vg==" type="marker.crimson.veteranWurms"/> <!-- Crimson Veteran Wurm Spawn Location -->
+		<POI MapID="73" xpos="227.872" ypos="39.8144" zpos="-383.435" GUID="Ia/glvJa/kmEHWwd05pYAg==" type="marker.crimson.veteranWurms"/> <!-- Crimson Veteran Wurm Spawn Location -->
+		<POI MapID="73" xpos="203.128" ypos="15.0487" zpos="-466.777" GUID="GsJx2deZRES+Au3zzHu/YA==" type="marker.crimson.veteranWurms"/> <!-- Crimson Veteran Wurm Spawn Location -->
+		<POI MapID="73" xpos="249.189" ypos="29.8083" zpos="-463.546" GUID="Go+Fta+ry02WcScsWFSBWw==" type="marker.crimson.veteranWurms"/> <!-- Crimson Veteran Wurm Spawn Location -->
+		<POI MapID="73" xpos="236.288" ypos="19.816" zpos="-413.877" GUID="hw9Y0+R9PUqJW7RyMWtpVg==" type="marker.crimson.veteranWurms"/> <!-- Crimson Veteran Wurm Spawn Location -->
+		
+		<POI MapID="73" xpos="218.719" ypos="16.1642" zpos="-429.924" GUID="pZptVxbX4kWedGJWWo51VA==" type="marker.crimson.rewards"/> <!-- Rewards Portal -->
+		<!-- End Crimson Markers -->
+		
+		<!-- Cobalt Markers -->
+		<!-- Escort -->
+		<POI MapID="73" xpos="-283.552" ypos="2.96025" zpos="-394.221" GUID="M2mNzSzUnkO6MRDbxJp91Q==" type="marker.cobalt.rum"/> <!-- Cobalt Wurm Kleptomaniac Achievement -->
+		<POI MapID="73" xpos="52.7416" ypos="3.01616" zpos="7.05807" GUID="ii9T4U+6D0qRoDRjd2nTrw==" type="marker.cobalt.eggs"/> <!-- Cobalt Escort Eggs 1 -->
+		<POI MapID="73" xpos="-10.2259" ypos="3.89585" zpos="-11.6511" GUID="F7N9MeB0/EKZMNy1b0MX7g==" type="marker.cobalt.eggs"/> <!-- Cobalt Escort Eggs 2 -->
+		<POI MapID="73" xpos="-107.136" ypos="7.56554" zpos="-144.445" GUID="G48ChmkMAE+fofZWVn3UDg==" type="marker.cobalt.eggs"/> <!-- Cobalt Escort Eggs 3 -->
+		<POI MapID="73" xpos="-442.798" ypos="-0.288516" zpos="-557.27" GUID="MPVKxUiHs0aVz19YBmjiMw==" type="marker.cobalt.eggs"/> <!-- Cobalt Escort Eggs 4 -->
+		<POI MapID="73" xpos="-446.194" ypos="-0.432447" zpos="-574.336" GUID="IA5MaXKo9keZl6eKv0mXRg=="  type="marker.cobalt.husk"/> <!-- Cobalt Escort Husk -->
+		
+		<!-- Arena -->
+		<POI MapID="73" xpos="-277.578" ypos="-0.0528725" zpos="-878.256" GUID="OYgBAdmWpk+BQa7focZl1w==" type="marker.cobalt.wurm"/> <!-- Cobalt Wurm/Blocking Spot -->
+		<POI MapID="73" xpos="-230.332" ypos="-0.356317" zpos="-881.118" GUID="qhwQ0ys9OEaxHB+uDNRYiw==" type="marker.cobalt.husks"/> <!-- Cobalt Husk Landing Spot -->
+		<POI MapID="73" xpos="-252.924" ypos="-0.111952" zpos="-843.363" GUID="t5P3CLHIlUyKJCkVrBDFJw==" type="marker.cobalt.husks"/> <!-- Cobalt Husk Landing Spot -->
+		<POI MapID="73" xpos="-296.104" ypos="0.840792" zpos="-843.674" GUID="4G/BfeGJt0mqq66yD6Y9kA==" type="marker.cobalt.husks"/> <!-- Cobalt Husk Landing Spot -->
+		<POI MapID="73" xpos="-321.14" ypos="0.399067" zpos="-792.791" GUID="wQb2+DVh3kCHg21s9SSiUw==" type="marker.cobalt.kegSpawn.beach"/> <!-- Beach Spot -->
+		<POI MapID="73" xpos="-185.2" ypos="0.153326" zpos="-900.621" GUID="XeqHwtutpkyDbVJ85cbyLg==" type="marker.cobalt.kegSpawn.plank"/> <!-- Plank Spot -->
+		<POI MapID="73" xpos="-233.992" ypos="0.0874073" zpos="-766.87" GUID="oaFJzq7am0+VVa1Di+UCEg==" type="marker.cobalt.kegSpawn.jp"/> <!-- JP Spot -->
+		<POI MapID="73" xpos="-267.194" ypos="0.197422" zpos="-862.079" GUID="XQVrU6VkqUKycHldSO+buA==" type="marker.cobalt.kegSpot"/> <!-- Keg Spot -->
+		
+		<POI MapID="73" xpos="-309.358" ypos="2.9362" zpos="-848.34" GUID="yFQIsMQvkESFAFrgVZXGtQ==" type="marker.cobalt.veteranWurms"/> <!-- Cobalt Veteran Wurm Spawn Location -->
+		<POI MapID="73" xpos="-247.196" ypos="-0.590959" zpos="-870.528" GUID="G5kvux6KMUKNEcRv6APqwg==" type="marker.cobalt.veteranWurms"/> <!-- Cobalt Veteran Wurm Spawn Location -->
+		<POI MapID="73" xpos="-220.953" ypos="-0.220239" zpos="-883.496" GUID="MZUz8EBSIEqbxaU6bEwlyQ==" type="marker.cobalt.veteranWurms"/> <!-- Cobalt Veteran Wurm Spawn Location -->
+		<POI MapID="73" xpos="-246.485" ypos="-0.445765" zpos="-827.39" GUID="g7zRSRJKH06m+cfUFPpRtg==" type="marker.cobalt.veteranWurms"/> <!-- Cobalt Veteran Wurm Spawn Location -->
+		<POI MapID="73" xpos="-253.358" ypos="0.16899" zpos="-851.387" GUID="vprq92XR5EOQjxw0uAK+yg==" type="marker.cobalt.veteranWurms"/> <!-- Cobalt Veteran Wurm Spawn Location -->
+		<POI MapID="73" xpos="-318.266" ypos="1.4726" zpos="-812.677" GUID="WPt56jrfBkCy8yWV7jw8Jg==" type="marker.cobalt.veteranWurms"/> <!-- Cobalt Veteran Wurm Spawn Location -->
+		<POI MapID="73" xpos="-279.243" ypos="0.98982" zpos="-844.502" GUID="V1XCFQhe00KlvgyMXVKV/A==" type="marker.cobalt.veteranWurms"/> <!-- Cobalt Veteran Wurm Spawn Location -->
+		<POI MapID="73" xpos="-293.336" ypos="0.332188" zpos="-846.183" GUID="jVk9BklEkUCTiT+OWbbQlA==" type="marker.cobalt.veteranWurms"/> <!-- Cobalt Veteran Wurm Spawn Location -->
+		
+		<POI MapID="73" xpos="-284.136" ypos="0.17537" zpos="-875.882" GUID="DqnLrDgnbESomtlLSqZQSw==" type="marker.cobalt.rewards"/> <!-- Rewards Portal -->
+		<!-- End Cobalt Markers -->
+		
+		<Trail color="ff298c24" GUID="f7wi+iWaxUuhusC4bamImA==" trailData="Data/marker/abomination.trl" animSpeed="0" fadeNear="5000" fadeFar="5001" type="marker.amber.abomination"/>
+		<Trail color="ff9D00FF" GUID="f7wi+iWaxUu5wdC4WebImA==" trailData="Data/marker/Amber_Fire_at_line.trl" animSpeed="0" fadeNear="5000" fadeFar="5001" type="marker.amber.harpoonFire"/>
+		
+		<!-- Escort Trails -->
+		<Trail GUID="CSa/o60FC0a2Sgu4GnP02Q==" color="ffe2882e" trailData="Data/marker/TT_Amber_Escort.trl" animSpeed="0" fadeNear="5000" fadeFar="5001" type="marker.amber.escortPath"/>
+		<Trail GUID="SXOjKBVGZke3DPjq59AW0Q==" color="ffd93939" trailData="Data/marker/TT_Crimson_Escort.trl" animSpeed="0" fadeNear="5000" fadeFar="5001" type="marker.crimson.escortPath"/>
+		<Trail GUID="kzD4K94d2UWrYR41naDvvQ==" color="ff19a2ff" trailData="Data/marker/TT_Cobalt_Escort.trl" animSpeed="0" fadeNear="5000" fadeFar="5001" type="marker.cobalt.escortPath"/>
+	</POIs>
+</OverlayData>
